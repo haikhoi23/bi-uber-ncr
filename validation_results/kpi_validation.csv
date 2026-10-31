@@ -1,0 +1,13 @@
+KPI,Python Value
+Total Bookings (COUNTROWS),150000.0
+Unique Booking IDs,148767.0
+Completed Bookings,93000.0
+Completion Rate (%),62.0
+Completed Revenue,47260574.0
+AOV Completed,508.18
+Peak Hour,18.0
+Peak Hour Bookings,12397.0
+Peak Share 17-19 (%),22.99
+Revenue at Risk,24392554.32
+Avg VTAT,8.46
+Weekend Uplift (%),0.66
